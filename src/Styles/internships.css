@@ -1,0 +1,73 @@
+#experience {
+  width: 100%;
+  padding: 5rem 2rem;
+  text-align: center;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.1); /* Transparent glassy layer */
+  backdrop-filter: blur(10px);
+}
+
+#experience h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 2.2rem;
+}
+
+.experience-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+
+  max-width: 900px;
+  margin: auto;
+}
+
+.experience-card {
+  background: rgba(17, 17, 17, 0.12);
+  backdrop-filter: blur(12px);
+  border-radius: 18px;
+  padding: 1.8rem;
+  text-align: left;
+  box-shadow: 0 4px 20px rgba(71, 1, 18, 0.05);
+  transition: transform 0.3s ease;
+}
+
+.experience-card:hover {
+  transform: translateY(-6px);
+}
+
+.experience-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.8rem;
+}
+
+.experience-header h3 {
+  font-size: 1.7rem;
+  font-weight: 600;
+  color: #55012b;
+}
+
+.experience-header span {
+  font-size: 0.95rem;
+  color: #ccc;
+}
+
+.experience-card ul {
+  font-size: larger;
+  line-height: 1.6;
+  margin-top: 0.5rem;
+  padding-left: 1rem;
+  color: #eaeaea;
+}
+
+.experience-card li {
+  margin-bottom: 0.4rem;
+  line-height: 1.6;
+}
+
+.app.dark #experience {
+  background: rgba(0, 0, 0, 0.35);
+}
