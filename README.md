@@ -1,12 +1,56 @@
-# React + Vite
+# 🌐 Stackfolio — Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **personal portfolio website** built using **React + Vite**, showcasing my **skills, projects, internships, and professional experience**.  
+This portfolio reflects my journey as a **Full Stack Developer** and **AI/ML Enthusiast**, combining creativity with functionality.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend:** Spring Boot (Java), MySQL  
+- **AI/ML:** Python, CNN, SVM, RFA, Predictive Analytics  
+- **Tools:** Git, GitHub, VS Code, Vite  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 Features
+- Responsive design for all devices 📱  
+- Dark/Light mode toggle 🌗  
+- Transparent glassmorphism sections ✨  
+- Interactive animations using Framer Motion 🎞️  
+- Dynamic sections: Skills, Projects, Internships, and Contact 📬  
+
+---
+
+## 🧩 Sections
+- **Home** – Intro and personal branding  
+- **Skills** – Programming, Web Dev, Core IT, and AI/ML skills  
+- **Projects** – Highlighting major projects like:
+  - AI Career Recommender *(SkillWise)*  
+  - Breast Cancer Prediction  
+  - Energy Consumption Forecasting  
+  - Plant Disease Classification  
+  - Portfolio Website  
+- **Internships** – Infosys Springboard, Google AI-ML, Microsoft AI Azure  
+- **Contact** – Direct email & social links  
+
+---
+
+## 🌍 Live Demo
+🔗 [View Portfolio](https://chintalaharika5.github.io/stackfolio)
+
+---
+
+## 📫 Connect With Me
+- **Email:** chintalaharik5@gmail.com  
+- **GitHub:** [@Chintalaharika5](https://github.com/Chintalaharika5)  
+- **LinkedIn:** [Harika Chintala](https://www.linkedin.com/in/harika-chintala-23b37b272)
+
+---
+
+### 💡 Inspiration
+Designed with a minimalist, glassy UI and built as a **showcase of technical expertise** in Full Stack Java and AI-driven development.
+
+---
+
+⭐ *Feel free to fork, clone, or get inspired!*
