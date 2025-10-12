@@ -1,13 +1,14 @@
 .skills-section {
   text-align: center;
   padding: 80px 20px;
-  color: white;
+  color: rgb(253, 253, 253);
+  background: rgba(255, 255, 255, 0.15); 
 }
 
 .skills-section h2 {
   font-size: 2.5rem;
   margin-bottom: 20px;
-  color: #f7f4f5;
+  color: #fdfdfd;
 }
 
 .skills-category {
@@ -15,9 +16,9 @@
 }
 
 .skills-category h3 {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   margin-bottom: 20px;
-  color: #2c010f;
+  color: #410116;
 }
 
 .skills-container {
@@ -33,6 +34,7 @@
   font-size: 1rem;
   font-weight: 500;
   text-align: center;
+  background: rgba(5, 0, 0, 0.514);
   transition: all 0.3s ease;
 }
 
