@@ -19,7 +19,7 @@ export default function Contact() {
         {/* Photo */}
         <div className="contact-photo" style={{ flexShrink: 0 }}>
           <img
-            src= "myphoto.jpeg"
+            src={`${import.meta.env.BASE_URL}myphoto.jpeg`}
             alt="Your Photo"
             style={{ width: '150px', borderRadius: '50%' }}
           />
