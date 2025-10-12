@@ -37,7 +37,7 @@ This portfolio reflects my journey as a **Full Stack Developer** and **AI/ML Ent
 ---
 
 ## 🌍 Live Demo
-🔗 [View Portfolio](https://chintalaharika5.github.io/stackfolio)
+🔗 [View Portfolio](https://chintalaharika5.github.io/STACKFOLIO/)
 
 ---
 
